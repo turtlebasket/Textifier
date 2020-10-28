@@ -1,4 +1,4 @@
 Textifier
 ===
 
-A marginally useful tool. Really just an excuse for to try and make something with WinForms.
+A marginally useful tool for being a clown on Discord. Really just an excuse for me to try and make something with WinForms.
